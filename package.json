@@ -13,8 +13,8 @@
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/preset-react": "^7.16.0",
-    "@unocss/preset-uno": "^0.20.4",
-    "@unocss/webpack": "^0.20.4",
+    "@unocss/preset-uno": "^0.30.2",
+    "@unocss/webpack": "^0.30.2",
     "babel-loader": "^8.2.3",
     "css-loader": "^6.5.1",
     "html-webpack-plugin": "^5.5.0",
